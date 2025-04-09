@@ -1,4 +1,5 @@
-# Java實作課程
+# Java實作課程 111-2 OOP 期末專題指定題
+## 組員 鄧志彥 陳旗予 張鈞民 簡郁庭
 Please click or download the file name : report.pdf to read the project
 
 
